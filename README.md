@@ -6,7 +6,7 @@
 
 <div align="center">
 
-
+| | |
 |:--|:--|
 | **`> DESIGNATION`** | Breno Dias Amaro |
 | **`> UNIT TYPE`** | Full Stack Developer & Game Developer |
