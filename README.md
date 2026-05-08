@@ -1,13 +1,21 @@
 <div align="center">
 
-`[SYSTEM BOOTING...]` · `[UNIT: QKNOA]` · `[STATUS: OPERATIONAL]`
+<br>
 
-**`> DESIGNATION :`** Breno Dias Amaro
-**`> UNIT TYPE   :`** Full Stack Developer & Game Developer
-**`> AFFILIATION :`** Little Cricket Studios
-**`> LOCATION    :`** Ourinhos / SP — Brasil
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=1000&color=C8A96E&center=true&vCenter=true&width=500&lines=%5BSYSTEM+BOOTING...%5D;%5BUNIT%3A+QKNOA+%E2%80%94+BRENO+DIAS+AMARO%5D;%5BSTATUS%3A+OPERATIONAL%5D;Full+Stack+Developer+%26+Game+Developer;Little+Cricket+Studios;%22Glory+to+Mankind.%22)
 
-*"Glory to Mankind."*
+<br>
+
+---
+
+|  |  |
+|:--|:--|
+| **`> DESIGNATION`** | Breno Dias Amaro |
+| **`> UNIT TYPE`** | Full Stack Developer & Game Developer |
+| **`> AFFILIATION`** | Little Cricket Studios |
+| **`> LOCATION`** | Ourinhos / SP — Brasil |
+
+<br>
 
 </div>
 
@@ -46,14 +54,14 @@
 
 ## `// DIRECTIVE_02 — COMBAT RECORDS`
 
-|     STATUS     |                 PROJETO                 |                FUNÇÃO                |
-| :------------: | :-------------------------------------: | :----------------------------------: |
-|  🥇 1st PLACE  |   **Bittersweet** — Fatec Gamejam 2025  |  Roteirista + Programador + Artista  |
-|   ✅ DEPLOYED   |      **Homesick** — Crie Games 2024     | Compositor + Programador de Sistemas |
-|   ✅ DEPLOYED   |           **The Tower Heroes**          |   Gameplay Programmer + UI Designer  |
-|   ✅ DEPLOYED   | **Evil Inc** — Projeto Integrador Fatec |          Programador Leader          |
-|   ✅ DEPLOYED   |          **Fragmento do Mundo**         | Gameplay Programmer + Level Designer |
-| 🔄 IN PROGRESS |        **The Truth About Alice**        |    Lead Developer + Sound Designer   |
+|     STATUS     |                   PROJETO                   |                FUNÇÃO                |
+| :------------: | :-----------------------------------------: | :----------------------------------: |
+|  🥇 1st PLACE  |   **Bittersweet** — Fatec Gamejam 2025      |  Roteirista + Programador + Artista  |
+|   ✅ DEPLOYED   |      **Homesick** — Crie Games 2024         | Compositor + Programador de Sistemas |
+|   ✅ DEPLOYED   |           **The Tower Heroes**              |   Gameplay Programmer + UI Designer  |
+|   ✅ DEPLOYED   | **Evil Inc** — Projeto Integrador Fatec     |          Programador Leader          |
+|   ✅ DEPLOYED   |          **Fragmento do Mundo**             | Gameplay Programmer + Level Designer |
+| 🔄 IN PROGRESS |        **The Truth About Alice**            |    Lead Developer + Sound Designer   |
 
 ---
 
@@ -61,10 +69,14 @@
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Repositories-27-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=c8a96e)
-![Contributions](https://img.shields.io/badge/Contributions-746-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=c8a96e)
-![Commits](https://img.shields.io/badge/Commit%20Rate-99%25-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=c8a96e)
-![Games](https://img.shields.io/badge/Games%20Shipped-6+-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=c8a96e)
+<br>
+
+![Repos](https://img.shields.io/badge/Repositories-27-0d0d0d?style=for-the-badge&labelColor=1a1505&color=c8a96e)
+![Contributions](https://img.shields.io/badge/Contributions-746-0d0d0d?style=for-the-badge&labelColor=1a1505&color=c8a96e)
+![Commits](https://img.shields.io/badge/Commit%20Rate-99%25-0d0d0d?style=for-the-badge&labelColor=1a1505&color=c8a96e)
+![Games](https://img.shields.io/badge/Games%20Shipped-6+-0d0d0d?style=for-the-badge&labelColor=1a1505&color=c8a96e)
+
+<br>
 
 </div>
 
@@ -87,6 +99,8 @@
 
 <div align="center">
 
+<br>
+
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge&logo=github&logoColor=c8a96e)](https://qknoa.github.io/Portifolio/)
 [![Currículo](https://img.shields.io/badge/CURRÍCULO-0d0d0d?style=for-the-badge&logo=googledocs&logoColor=c8a96e)](https://qknoa.github.io/Curriculo-Interativo/)
 [![Email](https://img.shields.io/badge/EMAIL-0d0d0d?style=for-the-badge&logo=microsoftoutlook&logoColor=c8a96e)](mailto:brenolucas.amaro@hotmail.com)
@@ -94,11 +108,15 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=c8a96e)](https://www.linkedin.com/in/breno-dias-amaro-129647184/)
 [![Itch.io](https://img.shields.io/badge/ITCH.IO-0d0d0d?style=for-the-badge&logo=itchdotio&logoColor=c8a96e)](https://qknoa.itch.io)
 
+<br>
+
 </div>
 
 ---
 
 <div align="center">
+
+<br>
 
 ```
   Unit Qknoa remains combat-ready. Mission ongoing.
@@ -109,5 +127,7 @@
 ```
 
 `© 2026 Breno Dias Amaro — Little Cricket Studios`
+
+<br>
 
 </div>
