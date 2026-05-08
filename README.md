@@ -13,7 +13,7 @@
 | **`> DESIGNATION`** | Breno Dias Amaro |
 | **`> UNIT TYPE`** | Full Stack Developer & Game Developer |
 | **`> AFFILIATION`** | Little Cricket Studios |
-| **`> LOCATION`** | Ourinhos / SP — Brasil |
+| **`> LOCATION`** | Ourinhos / SP — Brazil |
 
 <br>
 
@@ -54,14 +54,13 @@
 
 ## `// DIRECTIVE_02 — COMBAT RECORDS`
 
-|     STATUS     |                   PROJETO                   |                FUNÇÃO                |
+|     STATUS     |                   PROJECT                   |                ROLE                  |
 | :------------: | :-----------------------------------------: | :----------------------------------: |
-|  🥇 1st PLACE  |   **Bittersweet** — Fatec Gamejam 2025      |  Roteirista + Programador + Artista  |
-|   ✅ DEPLOYED   |      **Homesick** — Crie Games 2024         | Compositor + Programador de Sistemas |
-|   ✅ DEPLOYED   |           **The Tower Heroes**              |   Gameplay Programmer + UI Designer  |
-|   ✅ DEPLOYED   | **Evil Inc** — Projeto Integrador Fatec     |          Programador Leader          |
-|   ✅ DEPLOYED   |          **Fragmento do Mundo**             | Gameplay Programmer + Level Designer |
-| 🔄 IN PROGRESS |        **The Truth About Alice**            |    Lead Developer + Sound Designer   |
+|  🥇 1st PLACE  |   **Bittersweet** — Fatec Gamejam 2025      |  Writer + Programmer + Artist        |
+|   ✅ DEPLOYED   |      **Homesick** — Crie Games 2024         | Composer + Systems Programmer        |
+|   ✅ DEPLOYED   |           **The Tower Heroes**              |   Systems Programmer  + Sound Designer  |
+|   ✅ DEPLOYED   | **Evil Inc** — Fatec Integrator Project     |          Artist             |
+| 🔄 IN PROGRESS |        **The Truth About Alice**            |    Systems Programmer + Sound Designer   |
 
 ---
 
@@ -102,7 +101,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge&logo=github&logoColor=c8a96e)](https://qknoa.github.io/Portifolio/)
-[![Currículo](https://img.shields.io/badge/CURRÍCULO-0d0d0d?style=for-the-badge&logo=googledocs&logoColor=c8a96e)](https://qknoa.github.io/Curriculo-Interativo/)
+[![Resume](https://img.shields.io/badge/RESUME-0d0d0d?style=for-the-badge&logo=googledocs&logoColor=c8a96e)](https://qknoa.github.io/Curriculo-Interativo/)
 [![Email](https://img.shields.io/badge/EMAIL-0d0d0d?style=for-the-badge&logo=microsoftoutlook&logoColor=c8a96e)](mailto:brenolucas.amaro@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-0d0d0d?style=for-the-badge&logo=whatsapp&logoColor=c8a96e)](https://wa.me/5514998947003)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=c8a96e)](https://www.linkedin.com/in/breno-dias-amaro-129647184/)
