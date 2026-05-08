@@ -58,9 +58,10 @@
 | :------------: | :-----------------------------------------: | :----------------------------------: |
 |  🥇 1st PLACE  |   **Bittersweet** — Fatec Gamejam 2025      |  Writer + Programmer + Artist        |
 |   ✅ DEPLOYED   |      **Homesick** — Crie Games 2024         | Composer + Systems Programmer        |
-|   ✅ DEPLOYED   |           **The Tower Heroes**              |   Systems Programmer  + Sound Designer  |
-|   ✅ DEPLOYED   | **Evil Inc** — Fatec Integrator Project     |          Artist             |
-| 🔄 IN PROGRESS |        **The Truth About Alice**            |    Systems Programmer + Sound Designer   |
+|   ✅ DEPLOYED   |           **The Tower Heroes**              |   Gameplay Programmer + UI Designer  |
+|   ✅ DEPLOYED   | **Evil Inc** — Fatec Integrator Project     |          Lead Programmer             |
+|   ✅ DEPLOYED   |          **Fragmento do Mundo**             | Gameplay Programmer + Level Designer |
+| 🔄 IN PROGRESS |        **The Truth About Alice**            |    Lead Developer + Sound Designer   |
 
 ---
 
@@ -117,13 +118,9 @@
 
 <br>
 
-```
-  Unit Qknoa remains combat-ready. Mission ongoing.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=2000&color=C8A96E&center=true&vCenter=true&width=500&lines=Unit+Qknoa+remains+combat-ready.;Mission+ongoing.;%22...and+yet%2C+to+live+is+to+fight.%22;%5BEND+OF+TRANSMISSION%5D)
 
-  "...and yet, to live is to fight."
-
-  [END OF TRANSMISSION]
-```
+<br>
 
 `© 2026 Breno Dias Amaro — Little Cricket Studios`
 
