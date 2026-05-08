@@ -57,7 +57,7 @@
 |     STATUS     |                   PROJECT                   |                ROLE                  |
 | :------------: | :-----------------------------------------: | :----------------------------------: |
 |  🥇 1st PLACE  |   **Bittersweet** — Fatec Gamejam 2025      |  Writer + Programmer + Artist        |
-|   ✅ DEPLOYED   |      **Homesick** — Crie Games 2024         | Composer + Systems Programmer        |
+|  🥉 3rd PLACE  |      **Homesick** — Crie Games 2024         | Composer + Systems Programmer        |
 |   ✅ DEPLOYED   |           **The Tower Heroes**              |   Gameplay Programmer + UI Designer  |
 |   ✅ DEPLOYED   | **Evil Inc** — Fatec Integrator Project     |          Lead Programmer             |
 |   ✅ DEPLOYED   |          **Fragmento do Mundo**             | Gameplay Programmer + Level Designer |
