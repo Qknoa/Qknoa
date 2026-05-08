@@ -2,9 +2,9 @@
 
 `[SYSTEM BOOTING...]` · `[UNIT: QKNOA]` · `[STATUS: OPERATIONAL]`
 
-**`> DESIGNATION :`** Breno Dias Amaro`
-**`> UNIT TYPE   :`** Full Stack Developer & Game Developer`
-**`> AFFILIATION :`** Little Cricket Studios`
+**`> DESIGNATION :`** Breno Dias Amaro
+**`> UNIT TYPE   :`** Full Stack Developer & Game Developer
+**`> AFFILIATION :`** Little Cricket Studios
 **`> LOCATION    :`** Ourinhos / SP — Brasil
 
 *"Glory to Mankind."*
