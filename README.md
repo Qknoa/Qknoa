@@ -1,17 +1,11 @@
 <div align="center">
 
-`[SYSTEM BOOTING...]` &nbsp;·&nbsp; `[UNIT: QKNOA]` &nbsp;·&nbsp; `[STATUS: OPERATIONAL]`
+`[SYSTEM BOOTING...]` · `[UNIT: QKNOA]` · `[STATUS: OPERATIONAL]`
 
-</div>
-
-<div align="center">
-
-| | |
-|:--|:--|
-| **`> DESIGNATION`** | Breno Dias Amaro |
-| **`> UNIT TYPE`** | Full Stack Developer & Game Developer |
-| **`> AFFILIATION`** | Little Cricket Studios |
-| **`> LOCATION`** | Ourinhos / SP — Brasil |
+**`> DESIGNATION :`** Breno Dias Amaro
+**`> UNIT TYPE   :`** Full Stack Developer & Game Developer
+**`> AFFILIATION :`** Little Cricket Studios
+**`> LOCATION    :`** Ourinhos / SP — Brasil
 
 *"Glory to Mankind."*
 
@@ -22,8 +16,6 @@
 ## `// DIRECTIVE_01 — COMBAT SKILLS`
 
 ```
-[SKILL ANALYSIS — LOADING...]
-
   Primary Weapon ....... Unity Engine / C#
   Secondary Weapon ..... Laravel / PHP / MySQL
   Melee ................ JavaScript / HTML / CSS / Java
@@ -45,22 +37,18 @@
 
 ## `// DIRECTIVE_02 — COMBAT RECORDS`
 
-| STATUS | PROJETO | TECNOLOGIA | FUNÇÃO |
-|:------:|:-------:|:----------:|:------:|
-| 🥇 `1st PLACE` | **Bittersweet** — Fatec Gamejam 2025 | Unity / C# | Roteirista + Programador + Artista |
-| ✅ `DEPLOYED` | **Homesick** — Crie Games 2024 | Unity / C# | Compositor + Programador de Sistemas |
-| ✅ `DEPLOYED` | **The Tower Heroes** | Unity / C# | Gameplay Programmer + UI Designer |
-| ✅ `DEPLOYED` | **Evil Inc** — Projeto Integrador Fatec | Unity / C# | Programador Leader |
-| ✅ `DEPLOYED` | **Fragmento do Mundo** | Unity / C# | Gameplay Programmer + Level Designer |
-| 🔄 `IN PROGRESS` | **The Truth About Alice** | Unity / C# | Lead Developer + Sound Designer |
+| STATUS | PROJETO | FUNÇÃO |
+|:------:|:-------:|:------:|
+| 🥇 1st PLACE | **Bittersweet** — Fatec Gamejam 2025 | Roteirista + Programador + Artista |
+| ✅ DEPLOYED | **Homesick** — Crie Games 2024 | Compositor + Programador de Sistemas |
+| ✅ DEPLOYED | **The Tower Heroes** | Gameplay Programmer + UI Designer |
+| ✅ DEPLOYED | **Evil Inc** — Projeto Integrador Fatec | Programador Leader |
+| ✅ DEPLOYED | **Fragmento do Mundo** | Gameplay Programmer + Level Designer |
+| 🔄 IN PROGRESS | **The Truth About Alice** | Lead Developer + Sound Designer |
 
 ---
 
 ## `// DIRECTIVE_03 — INTELLIGENCE ARCHIVES`
-
-```
-[GITHUB STATS — ACCESSING...]
-```
 
 <div align="center">
 
@@ -77,8 +65,6 @@
 ## `// DIRECTIVE_04 — SOUND DESIGN UNIT`
 
 ```
-[AUDIO ARCHIVES — ACCESSING...]
-
   ■ Homesick .............. "Melancholy of Home"  — Piano / Ambient
   ■ Tower Heroes .......... "Heroic Management"   — Synth / Action
   ■ The Truth About Alice . "Atmosphere 05"       — Atmospheric / Dark
@@ -107,14 +93,11 @@
 <div align="center">
 
 ```
-[SYSTEM MESSAGE]
-
-  Unit Qknoa remains combat-ready.
-  Mission ongoing.
+  Unit Qknoa remains combat-ready. Mission ongoing.
 
   "...and yet, to live is to fight."
 
-[END OF TRANSMISSION]
+  [END OF TRANSMISSION]
 ```
 
 `© 2026 Breno Dias Amaro — Little Cricket Studios`
